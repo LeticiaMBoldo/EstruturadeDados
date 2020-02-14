@@ -1,0 +1,9 @@
+função
+
+<tipoRetorno> Nomefunção(<parametros>)
+{
+}
+
+parametros: são valores que são passados para a função.
+uma função pode ter ou não parametros
+
