@@ -1,0 +1,4 @@
+Faça um programa em C que tenha uma função que transforme a temperatura Fshreinheit em temperatura Celsius.
+
+Celsius = (5.0/9.0)*(fahr-32);
+
