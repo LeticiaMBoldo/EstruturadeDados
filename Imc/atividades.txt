@@ -1,0 +1,14 @@
+calcular o imc
+
+formula 
+	(imc = peso/ (altura* altura))
+
+calcular o imc de 5 pessoas e classifica-las conformw a tabela acima. Calcular também a porcentagem de pessoas e cada faixa de valor de imc
+
+tabela 
+	até 22
+		-> magro
+	entre 22 e 27
+		-> Normal
+	acima de 27
+		->Gordo
