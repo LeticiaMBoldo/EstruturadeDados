@@ -1,0 +1,2 @@
+Exercicio:
+	dados dois números, N1 e N2, faça uma função para encontrar o MAIOR VALOR e outra função para encontrar a MÉDIA DOS VALORES;

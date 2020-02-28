@@ -1,0 +1,7 @@
+12) Fazer um programa em C que contenha uma FUNÇÂO que calcule o valor da função f(x).
+
+	Fx = 2*x²-3*x+5
+
+para x variando de 0 a 20;
+
+dando certeza que nesse exercicio tera que ter funções e laço de repetição
