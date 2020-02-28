@@ -1,0 +1,12 @@
+como declara uma função
+
+<tipodafunção>nomedafuncao(<lista_de_parametros>)
+{
+//valores locais 
+-
+-
+comandos
+-
+-
+	return(<var>)
+}
