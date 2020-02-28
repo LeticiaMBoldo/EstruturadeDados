@@ -1,0 +1,4 @@
+2. Faça um programa em C que leia 2 valores fornecidos pelo usuário e faça:
+A) Fução que calcule a MÉDIA 
+B) Função que calcule o MAIOR VALOR
+c) Função que clacule o MENOR VALOR
