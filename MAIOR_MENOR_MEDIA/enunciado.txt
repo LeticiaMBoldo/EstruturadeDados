@@ -2,3 +2,6 @@
 A) Fução que calcule a MÉDIA 
 B) Função que calcule o MAIOR VALOR
 c) Função que clacule o MENOR VALOR
+
+
+criar uma biblioteca para essas funções
