@@ -1,0 +1,12 @@
+[já foi feito na aula passada]
+12.Fazer um programa em c que contenha uma função que calcule o valor da função f(x).
+
+		fx = 2*x²-3*x+5
+
+
+13 Fazer uma função que calcule o Montante de uma aplicação financeira, sabendo-se que 
+	montante = capital*(1+taxajuro)^N
+
+	onde: 
+		TAxajuro: taxa mensal de juros 
+		N: número de meses da aplicação

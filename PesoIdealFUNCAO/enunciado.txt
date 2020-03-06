@@ -1,0 +1,5 @@
+4. Dados o sexo(1-homem, 2-mulher) e a altura de uma pessoa faça uma função que calcule o peso idela que esta pessoa deveria ter.
+	PEsoIdeal = 72.7*altura - 58 (homens)
+
+	PEsoideal = 62.1* altura - 44.7 (mulheres)
+
