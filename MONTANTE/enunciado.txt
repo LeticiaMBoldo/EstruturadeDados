@@ -8,5 +8,6 @@
 	montante = capital*(1+taxajuro)^N
 
 	onde: 
-		TAxajuro: taxa mensal de juros 
+		Taxajuro: taxa mensal de juros
+		capital: valor aplicado 
 		N: número de meses da aplicação
