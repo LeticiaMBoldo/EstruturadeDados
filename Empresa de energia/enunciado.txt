@@ -1,0 +1,10 @@
+24)uma empresa de fornecimento de energia elétrica faz a leitura mensal dos medidores de consumo. PAra cada consumidor é digitado a quantidade de kWh consumidos durante o mês;
+
+-tipo do consumidor.
+	1-residencial, preço em reais por kWh = 0,3
+	2-comercial, preço em reais por kWh  = 0,5
+	3-industrial, preco em reiasi por kWh  = 0,7
+
+- se é período de bandeira BRANCA (preço normal), bandeir amarela(acrescimo de 5%) ou Vermelha (acrescimo de 10 %).
+
+Faça uma função para calcular o valro e uma função para bandeira

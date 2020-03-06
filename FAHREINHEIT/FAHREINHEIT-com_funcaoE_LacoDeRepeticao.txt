@@ -1,0 +1,2 @@
+6. Faça um programa em C que tenha uma função que transformar a temperatura FAHREINHEIT em temperatura CELSIUS, para cada valor de FAHREINHEIT variando entre  e 100.
+	celsius = (5.0/9.0)*(FAHREINHEIT-32);
