@@ -1,0 +1,13 @@
+vetores
+	x = 0|1|2|3|4|5 -> um vetor de 6 posições;
+
+declaração
+	<tipo>NomeVetor[tamanho];
+	float NOTAS[5];
+	float temperatura[30];
+	
+	int x[5];
+	char nome[40];
+
+	for (int i = 0; i < 5;i++)
+		cin<<x[i];
