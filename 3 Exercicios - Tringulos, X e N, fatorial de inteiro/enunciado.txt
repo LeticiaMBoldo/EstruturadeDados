@@ -1,0 +1,11 @@
+11)Escreva um progrmaa que leia as medidas dos lados de um triângulo e escreva se ele é Equilátero, Isósceles ou Escalenos. Sendo que:
+	
+	-Triangulo Equilátero : possui os 3 lados iguais 
+	-Triangulo Isoscele: possui 2 lados iguais.
+	-triangulo escaleno: possui 3 laods diferentes.
+
+
+12) Escreva uma função que recebe, por parâmetro, dois valores X e N e calcule e retorna X^n;
+
+
+13) Faça uma funçao que receba um valor N inteiro e positivo e calcula o seu fatorial.
