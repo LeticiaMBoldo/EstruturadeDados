@@ -1,0 +1,7 @@
+14)Fazer um programa para clcular a área de diferentes figuras geometricas (quadrado, retângulo, circulo, trapézio):
+
+	*Quadrado = lado * lado
+	*Retangulo = lado1 * lado2
+	*Circulo = 2*PI*Raio^2
+	*Trapezio = (BaseMaior+BaseMenor)*altura/2
+   Faça um menu par escolher qual área será calculada (utilize switch-case)
