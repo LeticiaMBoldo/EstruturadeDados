@@ -1,0 +1,7 @@
+Exercicios 
+
+1. Dados um vetor A e um valor K, verificar se o valor k está no k está no vetor
+
+2.a multiplicação do vetor A por um valor k fornecido pelo usuário (criar um veotr B)
+
+3. faer um programa que leia 2 vetores (a e B) e calcule a soma dos vetores (criar um vetor C;
