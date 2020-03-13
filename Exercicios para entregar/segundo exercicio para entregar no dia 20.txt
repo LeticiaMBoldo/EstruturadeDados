@@ -1,0 +1,9 @@
+4. somar os valore de um vetor a;
+
+5 Calcular a média dos valores
+
+6. encontrear o maior valor de um vetor a
+
+7.encontrar o menor valor de um vetor a
+
+8 dados um vetor A, verificar quantos valores pares e quantos valores impares o vetor possui.
