@@ -1,0 +1,7 @@
+1) Fazer um programa que o usuário digite a matriz 3x3 e cvalcule:
+	1. A soma total 
+	2. A média dos valores da matriz 
+	3. o maior valor 
+	4. o menor valor 
+	5. Mostrar valores Abaixo da média.
+
